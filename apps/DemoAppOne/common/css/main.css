@@ -1,0 +1,18 @@
+#AppDiv {
+	height: 460px;
+	margin: 0 auto;
+	width: 320px;
+	background-color: #fff;
+	overflow: hidden;
+	overflow-y: auto;
+}
+
+.header {
+	text-align: center;
+	background-color: #FC6345;
+	color: #F9FAFB;
+	font-size: 16px;
+	height: 38px;
+	line-height: 38px;
+	border-bottom: 1px solid #BBBBBB;
+}
